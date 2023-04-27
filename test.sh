@@ -1,3 +1,3 @@
 #!/usr/bin/sh
 echo "GITHUB TEST"
-echo "Updated"
+echo "Updated now"
